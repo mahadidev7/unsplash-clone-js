@@ -13,6 +13,6 @@ I have created a unsplash website with api 🦾🦾🦾
  Model - JavaScript Dom <br/>
  Smoth scroll <br/>
 <br/>
-[visit]9https://mahadidev7.github.io/unsplash-clone-js/]
+visit = https://mahadidev7.github.io/unsplash-clone-js/
 
 
