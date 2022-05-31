@@ -914,6 +914,9 @@ footer{
     color: #111;
     text-transform: capitalize;
 }
-
+footer{
+    text-align:center;
+    margin:auto;
+}
 
 
