@@ -93,6 +93,9 @@
     .model_main__Div > button:nth-child(2), .model_main__Div > button:nth-child(3){
         display: none;
     }
+    .mainImg_C.zoomIN{
+        height: auto !important;
+    }
     
 }
 
